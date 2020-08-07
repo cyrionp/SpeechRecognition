@@ -1,6 +1,6 @@
 # SpeechRecognition
 
-Speech Recognition web-based Python app sample will be developed and published
+Speech Recognition is a web-based Python with Flask sample app. It will be developed and published
 
 # Resources
 
